@@ -95,8 +95,8 @@ const Sidebar = () => {
                             style={{ cursor: "pointer", borderRadius: "50%" }} />
                             </Box>
                             <Box textAlign="center">
-                                <Typography variant="h2" color={colors.grey[100]} fontWeight="bold" sx={{ m:"10px 0 0 0"}}>Mass Jack</Typography>
-                                <Typography variant="h5" color={colors.greenAccent[500]}>VP Fancy Admin</Typography>
+                                <Typography variant="h2" color={colors.grey[100]} fontWeight="bold" sx={{ m:"10px 0 0 0"}}>John Stewart</Typography>
+                                <Typography variant="h5" color={colors.greenAccent[500]}>Admin</Typography>
                             </Box>
                         </Box>
                     )}
